@@ -6,6 +6,6 @@ void main()
     for(i=1;i<=5;i++)
     {
         mul=n*i;
-        printf("%d\n ",mul);
+        printf("%d ",mul);
     }
 }
