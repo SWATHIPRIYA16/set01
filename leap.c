@@ -5,14 +5,13 @@ void main()
      scanf("%d",&year);
     if(year>1900)
     {
-   
     if(year%4==0)
     {
-        printf("yes");
+     printf("yes");
     }
     else
     {
-        printf("no");
+     printf("no");
     }
     }
 }
